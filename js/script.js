@@ -15,7 +15,7 @@ let users = [
   {
     id: 102,
     firstName: "نوید",
-    lastName: "نیکنام",
+    lastName: "موسوی",
     image: "images/profile-1.jpg",
     job: "برنامه‌نویس ارشد بک‌اند",
     following: 272,
